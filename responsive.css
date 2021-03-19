@@ -1,0 +1,10 @@
+@media all and ( max-width: 760px) {
+    form {
+        width: 200px;
+        padding-left: 0;
+    }
+    .img-fluid {
+        padding: 90px 0 10px 0;
+    }
+}
+

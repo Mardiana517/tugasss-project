@@ -1,0 +1,72 @@
+
+
+body {
+    min-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 2rem;
+   background-image: url(../HTML&CSS/img/images.jpg);
+    background-size: cover;
+    height: 100%c;
+    padding-top: 100px;
+    color: white;
+}
+
+.about p {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+
+.txt-center {
+    text-align: center;
+}
+
+.align-centre {
+    margin:auto;
+    width: 700px;
+}
+
+section {
+    padding:75px;
+}
+
+.col-sm-3 {
+    margin:auto;
+}
+
+.col-sm-12 {
+    padding-top: 20px;
+}
+
+
+.footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    font-style: bold;
+    background-color: black;
+    color: white;
+ }
+  
+ .footer p {
+     font-size: 18px;
+ }
+
+.sosmed {
+    font-size: 40px;
+    color:#fff;
+}
+
+#contactForm {
+    padding-top: 30px;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
+
