@@ -18,4 +18,4 @@ const calculator = (nilai1, nilai2, operator) => {
     }
  };
  
- console.log(calculator(4, 8, "-"));
+ console.log(calculator(12, 20, "+"));
